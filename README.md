@@ -4,6 +4,12 @@ This is a fake news detection system that uses Natural Language Processing (NLP)
 
 ---
 
+## 📥 Dataset Download
+
+This project uses the [Fake and Real News Dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset).
+
+Please download `Fake.csv` and `True.csv` manually and place them inside your directory.
+
 ## 🚀 Getting Started
 
 ### 1. Set up virtual environment
